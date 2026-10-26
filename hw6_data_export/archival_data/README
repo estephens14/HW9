@@ -1,0 +1,10 @@
+AST 5765/4762 (Advanced) Astronomical Data Analysis
+University of Central Florida
+Department of Physics
+
+Data for Homework 7 - 11
+
+dark_13s_*.fits      Dark frames
+k_lampoff_*.fits     Flat frames, lamp off
+k_lampon_*.fits      Flat frames, lamp on, k-band filter
+stars_13_*.fits      Object frames (stars)
